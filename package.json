@@ -17,3 +17,5 @@
   },
   "license": "MIT"
 }
+
+Fix the vulnerability by updating to the latest version of the dependency that you took note of earlier.
